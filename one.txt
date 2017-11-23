@@ -3,6 +3,3 @@ sdf
 dsf
 ds
 fds
-f
-ds
-f
